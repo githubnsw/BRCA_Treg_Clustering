@@ -16,5 +16,3 @@ We constructed an integrative multi-omics matrix from TCGA BRCA RNA-seq, miRNA, 
 The same pipeline (same AE model & clustering workflow) was applied to the GSE96058 external dataset for independent validation.
 
 ---
-
-## 📁 Repository Structure
